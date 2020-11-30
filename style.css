@@ -1,0 +1,48 @@
+.headDiv{
+	margin-top:40px;
+}
+
+.headDiv .rightDiv{
+	float:right;
+}
+
+.home:hover{
+	text-decoration: none;
+	color: #000;
+}
+
+.headDiv .leftDiv{
+	float:left;
+}
+
+.headDiv a{
+	color:#333;
+}
+
+.main_body{
+	height: 500px;
+}
+.footer{
+	text-align: center;
+}
+
+.main_bottom{
+	margin-top:300px;
+}
+
+.list li{
+	margin-top:15px;
+}
+
+.img_list a:hover{
+	border:2px solid #000;
+}
+.navi{
+	height:30px;
+	padding:20px 00px;
+	clear:both;
+}
+
+.navi a{
+	color:#333;
+}
